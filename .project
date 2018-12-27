@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Project Ashby</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Assets/Backgrounds</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Backgrounds</locationURI>
+		</link>
+		<link>
+			<name>Assets/HUD</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/HUD</locationURI>
+		</link>
+		<link>
+			<name>Assets/Maps</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Maps</locationURI>
+		</link>
+		<link>
+			<name>Assets/Music</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Music</locationURI>
+		</link>
+		<link>
+			<name>Assets/Sprites</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Sprites</locationURI>
+		</link>
+		<link>
+			<name>Assets/Tilesets</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Tilesets</locationURI>
+		</link>
+		<link>
+			<name>Assets/Voices</name>
+			<type>2</type>
+			<locationURI>PROJECT_LOC/Resources/Voices</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
